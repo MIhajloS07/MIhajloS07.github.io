@@ -1,3 +1,4 @@
-# Web fajlovi
-*.html linguist-language=HTML
 *.js linguist-language=JavaScript
+*.html linguist-language=HTML
+*.html linguist-detectable=false
+*.css linguist-language=CSS
