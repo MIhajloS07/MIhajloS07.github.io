@@ -1,0 +1,3 @@
+# Web fajlovi
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
