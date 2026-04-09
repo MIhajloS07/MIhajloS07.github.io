@@ -1,7 +1,4 @@
-# Force language
+# Force
 *.js linguist-language=JavaScript
-*.html linguist-language=HTML
 *.css linguist-language=CSS
-
-# Ako želiš da HTML manje utiče na statistiku
-index.html linguist-detectable=false
+*.html linguist-detectable=false
