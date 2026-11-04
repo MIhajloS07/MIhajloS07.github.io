@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./img/singidunum-logo.png" alt="Univerzitet Singidunum" width="260">
+<img src="assets/singidunum-logo.png" alt="Univerzitet Singidunum" width="260">
 
 # 🎬 FilmexTip 2026
 
@@ -109,7 +109,7 @@ An internet connection is required, since Bootstrap, Font Awesome and the movie 
 
 <div align="center">
 
-<img src="./img/singidunum-logo.png" alt="Singidunum University" width="200">
+<img src="assets/singidunum-logo.png" alt="Singidunum University" width="200">
 
 </div>
 
@@ -130,7 +130,7 @@ The course covered JavaScript fundamentals, working with the DOM, asynchronous p
 
 <div align="center">
 
-<img src="./img/sertifikat.png" alt="Course completion certificate – Singidunum University" width="420">
+<img src="assets/sertifikat.png" alt="Course completion certificate – Singidunum University" width="420">
 
 *Certificate of successful completion of the online course, Belgrade, 4 April 2026.*
 
