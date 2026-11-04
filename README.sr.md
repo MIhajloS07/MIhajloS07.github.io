@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./img/singidunum-logo.png" alt="Univerzitet Singidunum" width="260">
+<img src="assets/singidunum-logo.png" alt="Univerzitet Singidunum" width="260">
 
 # 🎬 FilmexTip 2026
 
@@ -109,7 +109,7 @@ Potrebna je internet konekcija jer se Bootstrap, Font Awesome i podaci o filmovi
 
 <div align="center">
 
-<img src="./img/singidunum-logo.png" alt="Univerzitet Singidunum" width="200">
+<img src="assets/singidunum-logo.png" alt="Univerzitet Singidunum" width="200">
 
 </div>
 
@@ -130,7 +130,7 @@ Tokom kursa obrađeni su osnovi JavaScript-a, rad sa DOM-om, asinhrono programir
 
 <div align="center">
 
-<img src="./img/sertifikat.png" alt="Sertifikat o završenom kursu – Univerzitet Singidunum" width="420">
+<img src="assets/sertifikat.png" alt="Sertifikat o završenom kursu – Univerzitet Singidunum" width="420">
 
 *Sertifikat o uspešno završenom online kursu, Beograd, 4. april 2026.*
 
